@@ -146,5 +146,5 @@ OutputDebug, [loading] desktops: %DesktopCount% current: %CurrentDesktop%
 ; <#p::switchDesktopByNumber(CurrentDesktop - 1)
 ; <#s::switchDesktopByNumber(CurrentDesktop + 1)
 ; <#a::switchDesktopByNumber(CurrentDesktop - 1)
-<#c::createVirtualDesktop()
-<#d::deleteVirtualDesktop()
+; <#c::createVirtualDesktop()
+; <#d::deleteVirtualDesktop()
